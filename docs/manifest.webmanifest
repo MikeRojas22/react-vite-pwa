@@ -5,7 +5,7 @@
   "display": "fullscreen",
   "background_color": "#ffffff",
   "lang": "es-MX",
-  "scope": "/",
+  "scope": "/react-vite-pwa/",
   "theme_color": "#ffffff",
   "description": "Aplicación de Ejemplo del Pluggin PWA para Vite",
   "orientation": "portrait",
